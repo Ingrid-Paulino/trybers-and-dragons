@@ -19,7 +19,4 @@ class Dwarf extends Race {
   }
 }
 
-// const dwarf1 = new Dwarf('dudu', 10);
-// console.log('dwarf1', dwarf1);
-
 export default Dwarf;
